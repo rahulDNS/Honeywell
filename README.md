@@ -9,6 +9,7 @@ This project, developed in collaboration with Honeywell, introduces a smart infl
 - Analyze waste patterns by route, age group, and meal type
 - Help airlines optimize meal planning and reduce food waste
 - Improve sustainability metrics and cost efficiency
+- Save 36% cost using our product versus using current approach
 
 ## 📊 What's Inside
 The project includes:
