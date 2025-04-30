@@ -40,7 +40,7 @@ function Dashboard() {
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
             style={{
-              padding: "0.5rem",
+              padding: "0.6rem",
               fontSize: "0.9rem",
               borderRadius: "5px",
               border: "1px solid #ccc",
