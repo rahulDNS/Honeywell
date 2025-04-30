@@ -1,0 +1,1352 @@
+[
+  {
+    "Tray ID": "T001",
+    "Food Item": "Cheese Omelette",
+    "Meal Type": "Lunch",
+    "Flight Route": "BOS-DEN",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "60+",
+    "Weight (g)": 201
+  },
+  {
+    "Tray ID": "T002",
+    "Food Item": "Cheese Omelette",
+    "Meal Type": "Lunch",
+    "Flight Route": "SEA-JFK",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "26-35",
+    "Weight (g)": 299
+  },
+  {
+    "Tray ID": "T003",
+    "Food Item": "Cheese Omelette",
+    "Meal Type": "Breakfast",
+    "Flight Route": "SEA-JFK",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "36-45",
+    "Weight (g)": 147
+  },
+  {
+    "Tray ID": "T004",
+    "Food Item": "Pasta Salad",
+    "Meal Type": "Dinner",
+    "Flight Route": "BOS-DEN",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "26-35",
+    "Weight (g)": 89
+  },
+  {
+    "Tray ID": "T005",
+    "Food Item": "Pasta Salad",
+    "Meal Type": "Lunch",
+    "Flight Route": "ATL-PHX",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "18-25",
+    "Weight (g)": 243
+  },
+  {
+    "Tray ID": "T006",
+    "Food Item": "Cheese Omelette",
+    "Meal Type": "Breakfast",
+    "Flight Route": "LAX-SFO",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "18-25",
+    "Weight (g)": 159
+  },
+  {
+    "Tray ID": "T007",
+    "Food Item": "Cheese Omelette",
+    "Meal Type": "Breakfast",
+    "Flight Route": "BOS-DEN",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "18-25",
+    "Weight (g)": 138
+  },
+  {
+    "Tray ID": "T008",
+    "Food Item": "Veg Wrap",
+    "Meal Type": "Lunch",
+    "Flight Route": "LAS-DFW",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "36-45",
+    "Weight (g)": 251
+  },
+  {
+    "Tray ID": "T009",
+    "Food Item": "Veg Wrap",
+    "Meal Type": "Lunch",
+    "Flight Route": "BOS-DEN",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "36-45",
+    "Weight (g)": 219
+  },
+  {
+    "Tray ID": "T010",
+    "Food Item": "Fruit Bowl",
+    "Meal Type": "Lunch",
+    "Flight Route": "LAX-SFO",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "60+",
+    "Weight (g)": 145
+  },
+  {
+    "Tray ID": "T011",
+    "Food Item": "Beef Burrito",
+    "Meal Type": "Dinner",
+    "Flight Route": "MIA-ORD",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "60+",
+    "Weight (g)": 271
+  },
+  {
+    "Tray ID": "T012",
+    "Food Item": "Beef Burrito",
+    "Meal Type": "Lunch",
+    "Flight Route": "SEA-JFK",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "18-25",
+    "Weight (g)": 185
+  },
+  {
+    "Tray ID": "T013",
+    "Food Item": "Fruit Bowl",
+    "Meal Type": "Lunch",
+    "Flight Route": "SEA-JFK",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "26-35",
+    "Weight (g)": 229
+  },
+  {
+    "Tray ID": "T014",
+    "Food Item": "Beef Burrito",
+    "Meal Type": "Breakfast",
+    "Flight Route": "MIA-ORD",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "60+",
+    "Weight (g)": 285
+  },
+  {
+    "Tray ID": "T015",
+    "Food Item": "Beef Burrito",
+    "Meal Type": "Breakfast",
+    "Flight Route": "MIA-ORD",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "60+",
+    "Weight (g)": 245
+  },
+  {
+    "Tray ID": "T016",
+    "Food Item": "Veg Wrap",
+    "Meal Type": "Lunch",
+    "Flight Route": "LAX-SFO",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "46-60",
+    "Weight (g)": 155
+  },
+  {
+    "Tray ID": "T017",
+    "Food Item": "Beef Burrito",
+    "Meal Type": "Lunch",
+    "Flight Route": "BOS-DEN",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "46-60",
+    "Weight (g)": 286
+  },
+  {
+    "Tray ID": "T018",
+    "Food Item": "Tofu Stir Fry",
+    "Meal Type": "Dinner",
+    "Flight Route": "ATL-PHX",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "60+",
+    "Weight (g)": 97
+  },
+  {
+    "Tray ID": "T019",
+    "Food Item": "Veg Wrap",
+    "Meal Type": "Breakfast",
+    "Flight Route": "SEA-JFK",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "46-60",
+    "Weight (g)": 139
+  },
+  {
+    "Tray ID": "T020",
+    "Food Item": "Cheese Omelette",
+    "Meal Type": "Dinner",
+    "Flight Route": "MIA-ORD",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "26-35",
+    "Weight (g)": 80
+  },
+  {
+    "Tray ID": "T021",
+    "Food Item": "Tofu Stir Fry",
+    "Meal Type": "Dinner",
+    "Flight Route": "BOS-DEN",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "46-60",
+    "Weight (g)": 89
+  },
+  {
+    "Tray ID": "T022",
+    "Food Item": "Beef Burrito",
+    "Meal Type": "Breakfast",
+    "Flight Route": "ATL-PHX",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "18-25",
+    "Weight (g)": 146
+  },
+  {
+    "Tray ID": "T023",
+    "Food Item": "Veg Wrap",
+    "Meal Type": "Dinner",
+    "Flight Route": "BOS-DEN",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "60+",
+    "Weight (g)": 203
+  },
+  {
+    "Tray ID": "T024",
+    "Food Item": "Veg Wrap",
+    "Meal Type": "Dinner",
+    "Flight Route": "LAS-DFW",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "36-45",
+    "Weight (g)": 270
+  },
+  {
+    "Tray ID": "T025",
+    "Food Item": "Chicken Sandwich",
+    "Meal Type": "Dinner",
+    "Flight Route": "ATL-PHX",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "46-60",
+    "Weight (g)": 133
+  },
+  {
+    "Tray ID": "T026",
+    "Food Item": "Pasta Salad",
+    "Meal Type": "Dinner",
+    "Flight Route": "SEA-JFK",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "26-35",
+    "Weight (g)": 178
+  },
+  {
+    "Tray ID": "T027",
+    "Food Item": "Cheese Omelette",
+    "Meal Type": "Dinner",
+    "Flight Route": "ATL-PHX",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "46-60",
+    "Weight (g)": 119
+  },
+  {
+    "Tray ID": "T028",
+    "Food Item": "Chicken Sandwich",
+    "Meal Type": "Breakfast",
+    "Flight Route": "LAX-SFO",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "26-35",
+    "Weight (g)": 173
+  },
+  {
+    "Tray ID": "T029",
+    "Food Item": "Fruit Bowl",
+    "Meal Type": "Breakfast",
+    "Flight Route": "LAX-SFO",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "60+",
+    "Weight (g)": 90
+  },
+  {
+    "Tray ID": "T030",
+    "Food Item": "Beef Burrito",
+    "Meal Type": "Lunch",
+    "Flight Route": "NYC-LAX",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "60+",
+    "Weight (g)": 248
+  },
+  {
+    "Tray ID": "T031",
+    "Food Item": "Cheese Omelette",
+    "Meal Type": "Dinner",
+    "Flight Route": "SEA-JFK",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "26-35",
+    "Weight (g)": 267
+  },
+  {
+    "Tray ID": "T032",
+    "Food Item": "Pasta Salad",
+    "Meal Type": "Lunch",
+    "Flight Route": "LAS-DFW",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "18-25",
+    "Weight (g)": 267
+  },
+  {
+    "Tray ID": "T033",
+    "Food Item": "Pasta Salad",
+    "Meal Type": "Breakfast",
+    "Flight Route": "MIA-ORD",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "46-60",
+    "Weight (g)": 207
+  },
+  {
+    "Tray ID": "T034",
+    "Food Item": "Pasta Salad",
+    "Meal Type": "Breakfast",
+    "Flight Route": "SEA-JFK",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "46-60",
+    "Weight (g)": 291
+  },
+  {
+    "Tray ID": "T035",
+    "Food Item": "Pasta Salad",
+    "Meal Type": "Breakfast",
+    "Flight Route": "BOS-DEN",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "60+",
+    "Weight (g)": 83
+  },
+  {
+    "Tray ID": "T036",
+    "Food Item": "Tofu Stir Fry",
+    "Meal Type": "Dinner",
+    "Flight Route": "NYC-LAX",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "18-25",
+    "Weight (g)": 250
+  },
+  {
+    "Tray ID": "T037",
+    "Food Item": "Fruit Bowl",
+    "Meal Type": "Breakfast",
+    "Flight Route": "MIA-ORD",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "18-25",
+    "Weight (g)": 300
+  },
+  {
+    "Tray ID": "T038",
+    "Food Item": "Tofu Stir Fry",
+    "Meal Type": "Breakfast",
+    "Flight Route": "ATL-PHX",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "18-25",
+    "Weight (g)": 100
+  },
+  {
+    "Tray ID": "T039",
+    "Food Item": "Cheese Omelette",
+    "Meal Type": "Lunch",
+    "Flight Route": "MIA-ORD",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "18-25",
+    "Weight (g)": 181
+  },
+  {
+    "Tray ID": "T040",
+    "Food Item": "Fruit Bowl",
+    "Meal Type": "Dinner",
+    "Flight Route": "MIA-ORD",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "60+",
+    "Weight (g)": 227
+  },
+  {
+    "Tray ID": "T041",
+    "Food Item": "Tofu Stir Fry",
+    "Meal Type": "Breakfast",
+    "Flight Route": "NYC-LAX",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "60+",
+    "Weight (g)": 146
+  },
+  {
+    "Tray ID": "T042",
+    "Food Item": "Beef Burrito",
+    "Meal Type": "Breakfast",
+    "Flight Route": "LAS-DFW",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "26-35",
+    "Weight (g)": 242
+  },
+  {
+    "Tray ID": "T043",
+    "Food Item": "Tofu Stir Fry",
+    "Meal Type": "Lunch",
+    "Flight Route": "SEA-JFK",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "26-35",
+    "Weight (g)": 111
+  },
+  {
+    "Tray ID": "T044",
+    "Food Item": "Veg Wrap",
+    "Meal Type": "Dinner",
+    "Flight Route": "LAS-DFW",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "36-45",
+    "Weight (g)": 147
+  },
+  {
+    "Tray ID": "T045",
+    "Food Item": "Pasta Salad",
+    "Meal Type": "Lunch",
+    "Flight Route": "LAX-SFO",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "26-35",
+    "Weight (g)": 112
+  },
+  {
+    "Tray ID": "T046",
+    "Food Item": "Cheese Omelette",
+    "Meal Type": "Dinner",
+    "Flight Route": "BOS-DEN",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "26-35",
+    "Weight (g)": 221
+  },
+  {
+    "Tray ID": "T047",
+    "Food Item": "Pasta Salad",
+    "Meal Type": "Dinner",
+    "Flight Route": "ATL-PHX",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "36-45",
+    "Weight (g)": 181
+  },
+  {
+    "Tray ID": "T048",
+    "Food Item": "Cheese Omelette",
+    "Meal Type": "Breakfast",
+    "Flight Route": "NYC-LAX",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "26-35",
+    "Weight (g)": 295
+  },
+  {
+    "Tray ID": "T049",
+    "Food Item": "Tofu Stir Fry",
+    "Meal Type": "Lunch",
+    "Flight Route": "MIA-ORD",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "46-60",
+    "Weight (g)": 159
+  },
+  {
+    "Tray ID": "T050",
+    "Food Item": "Chicken Sandwich",
+    "Meal Type": "Dinner",
+    "Flight Route": "NYC-LAX",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "36-45",
+    "Weight (g)": 221
+  },
+  {
+    "Tray ID": "T051",
+    "Food Item": "Chicken Sandwich",
+    "Meal Type": "Lunch",
+    "Flight Route": "NYC-LAX",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "18-25",
+    "Weight (g)": 148
+  },
+  {
+    "Tray ID": "T052",
+    "Food Item": "Tofu Stir Fry",
+    "Meal Type": "Breakfast",
+    "Flight Route": "ATL-PHX",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "18-25",
+    "Weight (g)": 97
+  },
+  {
+    "Tray ID": "T053",
+    "Food Item": "Fruit Bowl",
+    "Meal Type": "Lunch",
+    "Flight Route": "MIA-ORD",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "60+",
+    "Weight (g)": 235
+  },
+  {
+    "Tray ID": "T054",
+    "Food Item": "Tofu Stir Fry",
+    "Meal Type": "Lunch",
+    "Flight Route": "LAX-SFO",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "46-60",
+    "Weight (g)": 187
+  },
+  {
+    "Tray ID": "T055",
+    "Food Item": "Fruit Bowl",
+    "Meal Type": "Dinner",
+    "Flight Route": "BOS-DEN",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "18-25",
+    "Weight (g)": 157
+  },
+  {
+    "Tray ID": "T056",
+    "Food Item": "Cheese Omelette",
+    "Meal Type": "Dinner",
+    "Flight Route": "MIA-ORD",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "18-25",
+    "Weight (g)": 187
+  },
+  {
+    "Tray ID": "T057",
+    "Food Item": "Tofu Stir Fry",
+    "Meal Type": "Breakfast",
+    "Flight Route": "ATL-PHX",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "46-60",
+    "Weight (g)": 211
+  },
+  {
+    "Tray ID": "T058",
+    "Food Item": "Pasta Salad",
+    "Meal Type": "Breakfast",
+    "Flight Route": "SEA-JFK",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "26-35",
+    "Weight (g)": 284
+  },
+  {
+    "Tray ID": "T059",
+    "Food Item": "Fruit Bowl",
+    "Meal Type": "Breakfast",
+    "Flight Route": "ATL-PHX",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "26-35",
+    "Weight (g)": 164
+  },
+  {
+    "Tray ID": "T060",
+    "Food Item": "Chicken Sandwich",
+    "Meal Type": "Breakfast",
+    "Flight Route": "LAS-DFW",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "60+",
+    "Weight (g)": 268
+  },
+  {
+    "Tray ID": "T061",
+    "Food Item": "Beef Burrito",
+    "Meal Type": "Dinner",
+    "Flight Route": "LAS-DFW",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "36-45",
+    "Weight (g)": 216
+  },
+  {
+    "Tray ID": "T062",
+    "Food Item": "Chicken Sandwich",
+    "Meal Type": "Breakfast",
+    "Flight Route": "BOS-DEN",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "18-25",
+    "Weight (g)": 297
+  },
+  {
+    "Tray ID": "T063",
+    "Food Item": "Fruit Bowl",
+    "Meal Type": "Lunch",
+    "Flight Route": "BOS-DEN",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "18-25",
+    "Weight (g)": 257
+  },
+  {
+    "Tray ID": "T064",
+    "Food Item": "Beef Burrito",
+    "Meal Type": "Breakfast",
+    "Flight Route": "LAS-DFW",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "46-60",
+    "Weight (g)": 261
+  },
+  {
+    "Tray ID": "T065",
+    "Food Item": "Veg Wrap",
+    "Meal Type": "Dinner",
+    "Flight Route": "MIA-ORD",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "18-25",
+    "Weight (g)": 275
+  },
+  {
+    "Tray ID": "T066",
+    "Food Item": "Pasta Salad",
+    "Meal Type": "Dinner",
+    "Flight Route": "ATL-PHX",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "60+",
+    "Weight (g)": 216
+  },
+  {
+    "Tray ID": "T067",
+    "Food Item": "Beef Burrito",
+    "Meal Type": "Lunch",
+    "Flight Route": "MIA-ORD",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "46-60",
+    "Weight (g)": 257
+  },
+  {
+    "Tray ID": "T068",
+    "Food Item": "Cheese Omelette",
+    "Meal Type": "Breakfast",
+    "Flight Route": "LAX-SFO",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "60+",
+    "Weight (g)": 81
+  },
+  {
+    "Tray ID": "T069",
+    "Food Item": "Tofu Stir Fry",
+    "Meal Type": "Dinner",
+    "Flight Route": "LAS-DFW",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "60+",
+    "Weight (g)": 218
+  },
+  {
+    "Tray ID": "T070",
+    "Food Item": "Cheese Omelette",
+    "Meal Type": "Dinner",
+    "Flight Route": "BOS-DEN",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "26-35",
+    "Weight (g)": 224
+  },
+  {
+    "Tray ID": "T071",
+    "Food Item": "Tofu Stir Fry",
+    "Meal Type": "Lunch",
+    "Flight Route": "LAS-DFW",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "36-45",
+    "Weight (g)": 140
+  },
+  {
+    "Tray ID": "T072",
+    "Food Item": "Tofu Stir Fry",
+    "Meal Type": "Lunch",
+    "Flight Route": "LAX-SFO",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "60+",
+    "Weight (g)": 110
+  },
+  {
+    "Tray ID": "T073",
+    "Food Item": "Tofu Stir Fry",
+    "Meal Type": "Dinner",
+    "Flight Route": "LAX-SFO",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "36-45",
+    "Weight (g)": 197
+  },
+  {
+    "Tray ID": "T074",
+    "Food Item": "Veg Wrap",
+    "Meal Type": "Breakfast",
+    "Flight Route": "NYC-LAX",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "36-45",
+    "Weight (g)": 264
+  },
+  {
+    "Tray ID": "T075",
+    "Food Item": "Chicken Sandwich",
+    "Meal Type": "Breakfast",
+    "Flight Route": "LAS-DFW",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "18-25",
+    "Weight (g)": 172
+  },
+  {
+    "Tray ID": "T076",
+    "Food Item": "Veg Wrap",
+    "Meal Type": "Lunch",
+    "Flight Route": "SEA-JFK",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "36-45",
+    "Weight (g)": 92
+  },
+  {
+    "Tray ID": "T077",
+    "Food Item": "Fruit Bowl",
+    "Meal Type": "Dinner",
+    "Flight Route": "LAX-SFO",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "46-60",
+    "Weight (g)": 88
+  },
+  {
+    "Tray ID": "T078",
+    "Food Item": "Fruit Bowl",
+    "Meal Type": "Breakfast",
+    "Flight Route": "LAS-DFW",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "26-35",
+    "Weight (g)": 182
+  },
+  {
+    "Tray ID": "T079",
+    "Food Item": "Veg Wrap",
+    "Meal Type": "Breakfast",
+    "Flight Route": "LAS-DFW",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "60+",
+    "Weight (g)": 251
+  },
+  {
+    "Tray ID": "T080",
+    "Food Item": "Beef Burrito",
+    "Meal Type": "Lunch",
+    "Flight Route": "NYC-LAX",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "46-60",
+    "Weight (g)": 132
+  },
+  {
+    "Tray ID": "T081",
+    "Food Item": "Pasta Salad",
+    "Meal Type": "Breakfast",
+    "Flight Route": "ATL-PHX",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "46-60",
+    "Weight (g)": 164
+  },
+  {
+    "Tray ID": "T082",
+    "Food Item": "Chicken Sandwich",
+    "Meal Type": "Breakfast",
+    "Flight Route": "ATL-PHX",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "18-25",
+    "Weight (g)": 269
+  },
+  {
+    "Tray ID": "T083",
+    "Food Item": "Beef Burrito",
+    "Meal Type": "Lunch",
+    "Flight Route": "LAS-DFW",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "26-35",
+    "Weight (g)": 180
+  },
+  {
+    "Tray ID": "T084",
+    "Food Item": "Fruit Bowl",
+    "Meal Type": "Lunch",
+    "Flight Route": "ATL-PHX",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "46-60",
+    "Weight (g)": 250
+  },
+  {
+    "Tray ID": "T085",
+    "Food Item": "Tofu Stir Fry",
+    "Meal Type": "Dinner",
+    "Flight Route": "SEA-JFK",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "18-25",
+    "Weight (g)": 235
+  },
+  {
+    "Tray ID": "T086",
+    "Food Item": "Fruit Bowl",
+    "Meal Type": "Lunch",
+    "Flight Route": "BOS-DEN",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "46-60",
+    "Weight (g)": 105
+  },
+  {
+    "Tray ID": "T087",
+    "Food Item": "Beef Burrito",
+    "Meal Type": "Breakfast",
+    "Flight Route": "LAX-SFO",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "36-45",
+    "Weight (g)": 90
+  },
+  {
+    "Tray ID": "T088",
+    "Food Item": "Fruit Bowl",
+    "Meal Type": "Lunch",
+    "Flight Route": "BOS-DEN",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "36-45",
+    "Weight (g)": 152
+  },
+  {
+    "Tray ID": "T089",
+    "Food Item": "Fruit Bowl",
+    "Meal Type": "Lunch",
+    "Flight Route": "BOS-DEN",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "26-35",
+    "Weight (g)": 109
+  },
+  {
+    "Tray ID": "T090",
+    "Food Item": "Pasta Salad",
+    "Meal Type": "Lunch",
+    "Flight Route": "BOS-DEN",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "46-60",
+    "Weight (g)": 181
+  },
+  {
+    "Tray ID": "T091",
+    "Food Item": "Cheese Omelette",
+    "Meal Type": "Dinner",
+    "Flight Route": "MIA-ORD",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "46-60",
+    "Weight (g)": 256
+  },
+  {
+    "Tray ID": "T092",
+    "Food Item": "Pasta Salad",
+    "Meal Type": "Lunch",
+    "Flight Route": "BOS-DEN",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "60+",
+    "Weight (g)": 255
+  },
+  {
+    "Tray ID": "T093",
+    "Food Item": "Cheese Omelette",
+    "Meal Type": "Lunch",
+    "Flight Route": "BOS-DEN",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "26-35",
+    "Weight (g)": 137
+  },
+  {
+    "Tray ID": "T094",
+    "Food Item": "Beef Burrito",
+    "Meal Type": "Breakfast",
+    "Flight Route": "MIA-ORD",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "36-45",
+    "Weight (g)": 82
+  },
+  {
+    "Tray ID": "T095",
+    "Food Item": "Veg Wrap",
+    "Meal Type": "Lunch",
+    "Flight Route": "MIA-ORD",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "46-60",
+    "Weight (g)": 113
+  },
+  {
+    "Tray ID": "T096",
+    "Food Item": "Beef Burrito",
+    "Meal Type": "Dinner",
+    "Flight Route": "ATL-PHX",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "36-45",
+    "Weight (g)": 143
+  },
+  {
+    "Tray ID": "T097",
+    "Food Item": "Beef Burrito",
+    "Meal Type": "Breakfast",
+    "Flight Route": "LAS-DFW",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "26-35",
+    "Weight (g)": 151
+  },
+  {
+    "Tray ID": "T098",
+    "Food Item": "Fruit Bowl",
+    "Meal Type": "Breakfast",
+    "Flight Route": "ATL-PHX",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "36-45",
+    "Weight (g)": 148
+  },
+  {
+    "Tray ID": "T099",
+    "Food Item": "Chicken Sandwich",
+    "Meal Type": "Lunch",
+    "Flight Route": "BOS-DEN",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "46-60",
+    "Weight (g)": 118
+  },
+  {
+    "Tray ID": "T100",
+    "Food Item": "Tofu Stir Fry",
+    "Meal Type": "Lunch",
+    "Flight Route": "NYC-LAX",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "46-60",
+    "Weight (g)": 145
+  },
+  {
+    "Tray ID": "T101",
+    "Food Item": "Chicken Sandwich",
+    "Meal Type": "Breakfast",
+    "Flight Route": "SEA-JFK",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "36-45",
+    "Weight (g)": 113
+  },
+  {
+    "Tray ID": "T102",
+    "Food Item": "Cheese Omelette",
+    "Meal Type": "Breakfast",
+    "Flight Route": "SEA-JFK",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "36-45",
+    "Weight (g)": 161
+  },
+  {
+    "Tray ID": "T103",
+    "Food Item": "Fruit Bowl",
+    "Meal Type": "Lunch",
+    "Flight Route": "ATL-PHX",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "60+",
+    "Weight (g)": 226
+  },
+  {
+    "Tray ID": "T104",
+    "Food Item": "Beef Burrito",
+    "Meal Type": "Dinner",
+    "Flight Route": "NYC-LAX",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "26-35",
+    "Weight (g)": 140
+  },
+  {
+    "Tray ID": "T105",
+    "Food Item": "Tofu Stir Fry",
+    "Meal Type": "Dinner",
+    "Flight Route": "LAS-DFW",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "46-60",
+    "Weight (g)": 133
+  },
+  {
+    "Tray ID": "T106",
+    "Food Item": "Tofu Stir Fry",
+    "Meal Type": "Lunch",
+    "Flight Route": "NYC-LAX",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "36-45",
+    "Weight (g)": 205
+  },
+  {
+    "Tray ID": "T107",
+    "Food Item": "Pasta Salad",
+    "Meal Type": "Breakfast",
+    "Flight Route": "BOS-DEN",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "26-35",
+    "Weight (g)": 145
+  },
+  {
+    "Tray ID": "T108",
+    "Food Item": "Pasta Salad",
+    "Meal Type": "Dinner",
+    "Flight Route": "MIA-ORD",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "36-45",
+    "Weight (g)": 163
+  },
+  {
+    "Tray ID": "T109",
+    "Food Item": "Tofu Stir Fry",
+    "Meal Type": "Dinner",
+    "Flight Route": "LAS-DFW",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "60+",
+    "Weight (g)": 221
+  },
+  {
+    "Tray ID": "T110",
+    "Food Item": "Tofu Stir Fry",
+    "Meal Type": "Lunch",
+    "Flight Route": "SEA-JFK",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "18-25",
+    "Weight (g)": 191
+  },
+  {
+    "Tray ID": "T111",
+    "Food Item": "Tofu Stir Fry",
+    "Meal Type": "Lunch",
+    "Flight Route": "NYC-LAX",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "60+",
+    "Weight (g)": 150
+  },
+  {
+    "Tray ID": "T112",
+    "Food Item": "Beef Burrito",
+    "Meal Type": "Dinner",
+    "Flight Route": "MIA-ORD",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "26-35",
+    "Weight (g)": 258
+  },
+  {
+    "Tray ID": "T113",
+    "Food Item": "Beef Burrito",
+    "Meal Type": "Lunch",
+    "Flight Route": "LAS-DFW",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "26-35",
+    "Weight (g)": 160
+  },
+  {
+    "Tray ID": "T114",
+    "Food Item": "Pasta Salad",
+    "Meal Type": "Breakfast",
+    "Flight Route": "LAX-SFO",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "46-60",
+    "Weight (g)": 160
+  },
+  {
+    "Tray ID": "T115",
+    "Food Item": "Chicken Sandwich",
+    "Meal Type": "Dinner",
+    "Flight Route": "BOS-DEN",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "36-45",
+    "Weight (g)": 101
+  },
+  {
+    "Tray ID": "T116",
+    "Food Item": "Cheese Omelette",
+    "Meal Type": "Dinner",
+    "Flight Route": "MIA-ORD",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "18-25",
+    "Weight (g)": 124
+  },
+  {
+    "Tray ID": "T117",
+    "Food Item": "Chicken Sandwich",
+    "Meal Type": "Dinner",
+    "Flight Route": "BOS-DEN",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "60+",
+    "Weight (g)": 160
+  },
+  {
+    "Tray ID": "T118",
+    "Food Item": "Chicken Sandwich",
+    "Meal Type": "Dinner",
+    "Flight Route": "MIA-ORD",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "60+",
+    "Weight (g)": 100
+  },
+  {
+    "Tray ID": "T119",
+    "Food Item": "Pasta Salad",
+    "Meal Type": "Breakfast",
+    "Flight Route": "SEA-JFK",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "46-60",
+    "Weight (g)": 116
+  },
+  {
+    "Tray ID": "T120",
+    "Food Item": "Chicken Sandwich",
+    "Meal Type": "Lunch",
+    "Flight Route": "BOS-DEN",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "36-45",
+    "Weight (g)": 188
+  },
+  {
+    "Tray ID": "T121",
+    "Food Item": "Pasta Salad",
+    "Meal Type": "Breakfast",
+    "Flight Route": "NYC-LAX",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "18-25",
+    "Weight (g)": 232
+  },
+  {
+    "Tray ID": "T122",
+    "Food Item": "Beef Burrito",
+    "Meal Type": "Dinner",
+    "Flight Route": "ATL-PHX",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "60+",
+    "Weight (g)": 238
+  },
+  {
+    "Tray ID": "T123",
+    "Food Item": "Pasta Salad",
+    "Meal Type": "Dinner",
+    "Flight Route": "LAS-DFW",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "18-25",
+    "Weight (g)": 129
+  },
+  {
+    "Tray ID": "T124",
+    "Food Item": "Pasta Salad",
+    "Meal Type": "Dinner",
+    "Flight Route": "LAX-SFO",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "60+",
+    "Weight (g)": 157
+  },
+  {
+    "Tray ID": "T125",
+    "Food Item": "Chicken Sandwich",
+    "Meal Type": "Lunch",
+    "Flight Route": "ATL-PHX",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "18-25",
+    "Weight (g)": 156
+  },
+  {
+    "Tray ID": "T126",
+    "Food Item": "Pasta Salad",
+    "Meal Type": "Dinner",
+    "Flight Route": "LAX-SFO",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "46-60",
+    "Weight (g)": 212
+  },
+  {
+    "Tray ID": "T127",
+    "Food Item": "Veg Wrap",
+    "Meal Type": "Lunch",
+    "Flight Route": "MIA-ORD",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "36-45",
+    "Weight (g)": 259
+  },
+  {
+    "Tray ID": "T128",
+    "Food Item": "Veg Wrap",
+    "Meal Type": "Breakfast",
+    "Flight Route": "NYC-LAX",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "60+",
+    "Weight (g)": 266
+  },
+  {
+    "Tray ID": "T129",
+    "Food Item": "Cheese Omelette",
+    "Meal Type": "Breakfast",
+    "Flight Route": "MIA-ORD",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "46-60",
+    "Weight (g)": 230
+  },
+  {
+    "Tray ID": "T130",
+    "Food Item": "Veg Wrap",
+    "Meal Type": "Lunch",
+    "Flight Route": "LAS-DFW",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "46-60",
+    "Weight (g)": 169
+  },
+  {
+    "Tray ID": "T131",
+    "Food Item": "Pasta Salad",
+    "Meal Type": "Dinner",
+    "Flight Route": "ATL-PHX",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "46-60",
+    "Weight (g)": 120
+  },
+  {
+    "Tray ID": "T132",
+    "Food Item": "Veg Wrap",
+    "Meal Type": "Lunch",
+    "Flight Route": "NYC-LAX",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "60+",
+    "Weight (g)": 152
+  },
+  {
+    "Tray ID": "T133",
+    "Food Item": "Tofu Stir Fry",
+    "Meal Type": "Breakfast",
+    "Flight Route": "LAX-SFO",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "46-60",
+    "Weight (g)": 189
+  },
+  {
+    "Tray ID": "T134",
+    "Food Item": "Veg Wrap",
+    "Meal Type": "Lunch",
+    "Flight Route": "ATL-PHX",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "26-35",
+    "Weight (g)": 121
+  },
+  {
+    "Tray ID": "T135",
+    "Food Item": "Beef Burrito",
+    "Meal Type": "Breakfast",
+    "Flight Route": "BOS-DEN",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "46-60",
+    "Weight (g)": 139
+  },
+  {
+    "Tray ID": "T136",
+    "Food Item": "Veg Wrap",
+    "Meal Type": "Breakfast",
+    "Flight Route": "BOS-DEN",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "60+",
+    "Weight (g)": 276
+  },
+  {
+    "Tray ID": "T137",
+    "Food Item": "Beef Burrito",
+    "Meal Type": "Lunch",
+    "Flight Route": "SEA-JFK",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "60+",
+    "Weight (g)": 116
+  },
+  {
+    "Tray ID": "T138",
+    "Food Item": "Beef Burrito",
+    "Meal Type": "Dinner",
+    "Flight Route": "ATL-PHX",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "36-45",
+    "Weight (g)": 179
+  },
+  {
+    "Tray ID": "T139",
+    "Food Item": "Cheese Omelette",
+    "Meal Type": "Breakfast",
+    "Flight Route": "ATL-PHX",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "46-60",
+    "Weight (g)": 277
+  },
+  {
+    "Tray ID": "T140",
+    "Food Item": "Fruit Bowl",
+    "Meal Type": "Lunch",
+    "Flight Route": "SEA-JFK",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "46-60",
+    "Weight (g)": 169
+  },
+  {
+    "Tray ID": "T141",
+    "Food Item": "Veg Wrap",
+    "Meal Type": "Lunch",
+    "Flight Route": "SEA-JFK",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "36-45",
+    "Weight (g)": 297
+  },
+  {
+    "Tray ID": "T142",
+    "Food Item": "Chicken Sandwich",
+    "Meal Type": "Lunch",
+    "Flight Route": "LAS-DFW",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "36-45",
+    "Weight (g)": 179
+  },
+  {
+    "Tray ID": "T143",
+    "Food Item": "Cheese Omelette",
+    "Meal Type": "Dinner",
+    "Flight Route": "LAX-SFO",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "46-60",
+    "Weight (g)": 86
+  },
+  {
+    "Tray ID": "T144",
+    "Food Item": "Beef Burrito",
+    "Meal Type": "Lunch",
+    "Flight Route": "LAX-SFO",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "36-45",
+    "Weight (g)": 141
+  },
+  {
+    "Tray ID": "T145",
+    "Food Item": "Tofu Stir Fry",
+    "Meal Type": "Dinner",
+    "Flight Route": "MIA-ORD",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "18-25",
+    "Weight (g)": 85
+  },
+  {
+    "Tray ID": "T146",
+    "Food Item": "Pasta Salad",
+    "Meal Type": "Lunch",
+    "Flight Route": "BOS-DEN",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "18-25",
+    "Weight (g)": 298
+  },
+  {
+    "Tray ID": "T147",
+    "Food Item": "Fruit Bowl",
+    "Meal Type": "Lunch",
+    "Flight Route": "LAS-DFW",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "60+",
+    "Weight (g)": 165
+  },
+  {
+    "Tray ID": "T148",
+    "Food Item": "Fruit Bowl",
+    "Meal Type": "Dinner",
+    "Flight Route": "NYC-LAX",
+    "Consumption Status": "Fully Eaten",
+    "Passenger Age": "36-45",
+    "Weight (g)": 164
+  },
+  {
+    "Tray ID": "T149",
+    "Food Item": "Fruit Bowl",
+    "Meal Type": "Dinner",
+    "Flight Route": "SEA-JFK",
+    "Consumption Status": "Untouched",
+    "Passenger Age": "18-25",
+    "Weight (g)": 252
+  },
+  {
+    "Tray ID": "T150",
+    "Food Item": "Chicken Sandwich",
+    "Meal Type": "Lunch",
+    "Flight Route": "LAS-DFW",
+    "Consumption Status": "Partially Eaten",
+    "Passenger Age": "46-60",
+    "Weight (g)": 160
+  }
+]
