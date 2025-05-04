@@ -75,7 +75,7 @@ const HomePage = () => {
         data collection and smart meal insights.
       </p>
       <p style={{ fontSize: "1rem", color: "#333", marginBottom: "2rem" }}>
-        <strong>Co-founders:</strong> Carlos Chacon Cuesta | Rahul Sharma | Vijeth Patil
+        <strong>Co-founders:</strong> Carlos Chacon Cuesta | Rahul Sharma | Vijeth patil
       </p>
 
       <button
