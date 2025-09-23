@@ -18,4 +18,9 @@ The project includes:
 - PDF export features for sustainability officers
 - Simulated sensor data to represent real-world food trays
 
+
+
+This project is live at: https://honeywell-eight.vercel.app/ 
+We are currently working on maintaince for long route flight live dashboards and the cost saved associated with it along with 3KPIs mentioned by HoneyWell. 
+
 ---
